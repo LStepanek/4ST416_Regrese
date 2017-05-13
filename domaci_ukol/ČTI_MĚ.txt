@@ -1,0 +1,3 @@
+Domácí úkol je sepsán na více než povolené čtyři strany,
+ale ve výsledném .pdf (domaci_ukol.pdf) jsou pouze čtyři
+strany formátu A4 věnovány řešení úlohy.
